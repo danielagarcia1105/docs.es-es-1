@@ -15,7 +15,8 @@ ms.locfileid: "54415408"
 ---
 # <a name="net-guide"></a>Guía de .NET
 
-En esta guía de .NET encontrará mucha información sobre .NET.  En función de cómo de familiarizado esté con .NET, es posible que quiera ver varias secciones de esta guía y otras también incluidas en la documentación de .NET.
+En esta guía de .NET encontrará mucha información sobre .NET.  En función de cómo este familiarizado con .NET,es posible que quiera ver varias secciones de esta guía y otras también incluidas en la documentación de .NET.
+ 
 
 ## <a name="new-to-net"></a>Nuevo a .NET
 
